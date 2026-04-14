@@ -1,0 +1,51 @@
+question,answer,category
+How do I reset my SmartPlug?,Hold the power button for 10 seconds until the light blinks red.,Power
+Can I plug a space heater into the SmartPlug?,The SmartPlug is rated for up to 15A/1800W. Check your heater's rating before plugging it in.,Power
+Does the SmartPlug monitor energy usage?,"Yes, you can view real-time and historical energy consumption in the SmartHome app under the 'Energy' tab.",Power
+Why is my SmartPlug blinking blue?,A blinking blue light means the plug is in pairing mode and ready to be connected to Wi-Fi.,Power
+Will the SmartPlug work during an internet outage?,"Schedules saved to the device will continue to run, but you cannot control it remotely via the app without internet.",Power
+How do I set a timer for my plug?,"Open the SmartHome app, select your plug, tap 'Routines', and choose 'Add Timer'.",Power
+Is the SmartPlug weather-resistant for outdoor use?,"No, standard SmartPlugs are for indoor use only. Please purchase our Outdoor SmartPlug for exterior use.",Power
+Can I group multiple plugs together?,"Yes, you can create a 'Room' or 'Group' in the app to control multiple plugs with a single tap.",Power
+Why does my plug show as 'Offline'?,This usually indicates a weak Wi-Fi signal or a router issue. Try moving it closer to your router.,Power
+Does it support 5GHz Wi-Fi?,"No, SmartHome Pro plugs currently only support 2.4GHz Wi-Fi networks for better range.",Power
+Does the camera work at night?,"Yes, the camera has infrared sensors for night vision up to 30 feet.",Security
+How long is the video recording saved?,Free accounts save clips for 24 hours. Pro subscribers get 30 days of cloud storage.,Security
+Is the Smart Camera waterproof?,The Outdoor Camera model is IP65 weather-resistant. The Indoor model is not.,Security
+How do I share camera access with family?,"Go to Settings > Shared Users > Add User, and enter their email address.",Security
+Why am I getting too many motion alerts?,You can reduce the motion sensitivity slider in the camera settings or set up activity zones.,Security
+Does the doorbell camera require existing wiring?,The Battery Doorbell does not. The Wired Doorbell requires a 16-24V AC transformer.,Security
+Can the camera record 24/7?,"Yes, if you insert a MicroSD card (up to 128GB) into the camera slot, it supports continuous recording.",Security
+What is the resolution of the security camera?,All current SmartHome Pro cameras stream and record in 1080p HD.,Security
+How do I delete old video clips?,"In the app, go to the Library tab, tap the 'Edit' icon, select the clips, and press the trash can.",Security
+Can I turn off the camera's microphone?,"Yes, audio recording can be disabled in the device's privacy settings.",Security
+How do I connect to Wi-Fi?,"Use the SmartHome app, tap '+' to add a device, and follow the on-screen instructions to scan the QR code.",Hub
+Do I need the SmartHome Hub for the plugs to work?,"No, our Wi-Fi plugs connect directly to your router. The Hub is only required for Zigbee sensors.",Hub
+How do I restart the Hub?,"Unplug the Hub from the wall, wait 30 seconds, and plug it back in.",Hub
+What is the maximum number of devices a Hub can support?,A single SmartHome Pro Hub can support up to 64 connected devices.,Hub
+How do I update the firmware?,Firmware updates are automatic. You can manually check by going to Device Settings > Firmware > Check for Updates.,Hub
+Why is my Hub flashing red?,A flashing red light indicates the Hub has lost connection to your internet router.,Hub
+Can I use multiple Hubs in one house?,"Yes, for very large homes, adding a second Hub can extend the range of your Zigbee network.",Hub
+Is my data secure?,"Yes, all data transmitted between your devices, the Hub, and our cloud is encrypted using AES-256.",Hub
+Can I connect the Hub via Ethernet?,"Yes, the Hub has a built-in Ethernet port for a more stable, wired connection to your router.",Hub
+How do I factory reset the Hub?,Press and hold the pinhole reset button on the back of the Hub for 15 seconds.,Hub
+How do I dim the smart bulb?,You can use the brightness slider in the SmartHome app or use a voice command like 'Dim the living room to 50%'.,Lighting
+Do the smart bulbs support different colors?,The Color Pro bulbs support 16 million colors. The Standard Pro bulbs only support tunable white.,Lighting
+Can I use these bulbs with a physical dimmer switch?,"No, using a physical wall dimmer will cause the smart bulb to flicker or disconnect. Keep the wall switch at 100%.",Lighting
+How long do the smart bulbs last?,"Our LED smart bulbs are rated for 25,000 hours of continuous use.",Lighting
+How do I sync my lights to music?,Enable 'Music Sync' in the app settings while your phone is playing audio on the same Wi-Fi network.,Lighting
+Why did my lights turn on by themselves?,Check your app's 'Routines' tab. You may have 'Away Mode' or a schedule enabled.,Lighting
+What base size are the bulbs?,They fit standard E26 medium base sockets.,Lighting
+Can I use smart bulbs outdoors?,"Standard bulbs are indoor-only. They must be in an enclosed, weather-proof fixture if used outside.",Lighting
+How do I group my kitchen lights?,"Go to the Devices tab, tap the '+' icon, select 'Create Group', and choose the lights you want to include.",Lighting
+Why is one bulb a different shade of white than the others?,"Ensure all bulbs in the group are set to the same color temperature (e.g., 2700K Soft White) in the app.",Lighting
+What is the warranty period?,All SmartHome Pro products come with a 2-year limited warranty from the date of purchase.,General
+How do I reset my password?,"On the login screen of the app, tap 'Forgot Password' and enter your email address to receive a reset link.",General
+Does this work with Alexa and Google Assistant?,"Yes, you can link your SmartHome Pro account in the Alexa or Google Home apps for voice control.",General
+Does it support Apple HomeKit?,"Currently, Apple HomeKit is only supported on our Hub V2 and Pro Camera models.",General
+How do I contact customer support?,"You can reach us 24/7 via the 'Help' section in the app, or by emailing support@smarthomepro.com.",General
+Where can I buy replacement parts?,"Mounting brackets, cables, and batteries can be purchased directly from our website's accessories store.",General
+Is there a monthly fee to use the app?,"No, the app and basic device control are completely free. We only charge for optional extended cloud video storage.",General
+How do I change my account email?,"Log into your account on our website, go to Profile Settings, and select 'Update Email'.",General
+Can I transfer my devices to a new owner?,Yes. Delete the devices from your account in the app first. The new owner can then set them up as new.,General
+What is your return policy?,We offer a 30-day money-back guarantee for products purchased directly from our website.,General

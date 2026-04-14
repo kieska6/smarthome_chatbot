@@ -76,4 +76,3 @@ python smarthome_chatbot.py
 
 ### 2. Interaction
 The chatbot will launch, and you can interact directly within the terminal prompt. Type `exit` or `quit` to safely close the session.
-```

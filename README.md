@@ -32,35 +32,48 @@ This project uses the following tools and libraries:
 Create and activate a virtual environment:
 ```bash
 python -m venv venv
+```
 
-# On Linux/Mac
+**On Linux/Mac:**
+```bash
 source venv/bin/activate
-# On Windows
-.\venv\Scripts\activate
+```
 
-3. Install Dependencies
+**On Windows:**
+```cmd
+.\venv\Scripts\activate
+```
+
+### 3. Install Dependencies
 Install all the required libraries:
+```bash
 pip install langchain langchain-openai langchain-community chromadb pandas tiktoken
+```
 
 ### 4. Setup Data
-Ensure that the faq_data.csv file is located in the same root directory as your main script.
+Ensure that the `faq_data.csv` file is located in the same root directory as your main script.
 
 ### 5. API Key Configuration
 Set your OpenAI API key as an environment variable.
 
-# For Linux/Mac:
-
-Bash
+**For Linux/Mac:**
+```bash
 export OPENAI_API_KEY='your-key-here'
-# For Windows:
+```
 
-DOS
+**For Windows:**
+```cmd
 set OPENAI_API_KEY='your-key-here'
-Usage
-1. Running the Chatbot
-Execute the main script in your terminal:
+```
 
-Bash
+## Usage
+
+### 1. Running the Chatbot
+Execute the main script in your terminal:
+```bash
 python smarthome_chatbot.py
-2. Interaction
-The chatbot will launch, and you can interact directly within the terminal prompt. Type exit or quit to safely close the session.
+```
+
+### 2. Interaction
+The chatbot will launch, and you can interact directly within the terminal prompt. Type `exit` or `quit` to safely close the session.
+```

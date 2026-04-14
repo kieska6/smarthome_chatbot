@@ -38,7 +38,7 @@ source venv/bin/activate
 # On Windows
 .\venv\Scripts\activate
 
-### 3. Install Dependencies
+3. Install Dependencies
 Install all the required libraries:
 pip install langchain langchain-openai langchain-community chromadb pandas tiktoken
 
